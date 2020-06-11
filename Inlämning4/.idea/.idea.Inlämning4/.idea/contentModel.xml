@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Gäst-användare\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Gäst-användare\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Inlämning4.-632237375.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Gäst-användare\Inlämning4" t="IncludeFlat">
+      <e p="Inlämning4" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Dumper.cs" t="Include" />
+        <e p="FileManufacturerRepository.cs" t="Include" />
+        <e p="FileProductRepository.cs" t="Include" />
+        <e p="FileRepositoryStore.cs" t="Include" />
+        <e p="IManufacturerRepository.cs" t="Include" />
+        <e p="Inlämning4.csproj" t="IncludeRecursive" />
+        <e p="IRepositoryProduct.cs" t="Include" />
+        <e p="IRepositorySore.cs" t="Include" />
+        <e p="IStringDistance.cs" t="Include" />
+        <e p="JaroWinklerDistance.cs" t="Include" />
+        <e p="LevenshteinDistance.cs" t="Include" />
+        <e p="Manufacturer.cs" t="Include" />
+        <e p="MenuDisplay.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Release" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Inlämning4.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Product.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Store.cs" t="Include" />
+      </e>
+      <e p="Inlämning4.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
